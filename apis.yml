@@ -1,0 +1,89 @@
+aid: mayfield
+name: Mayfield Fund
+description: >-
+  Mayfield Fund is an early-stage venture capital firm founded in 1969 and
+  headquartered on Sand Hill Road in Menlo Park, California, with a presence in
+  Mumbai, India. One of the oldest continuously active Silicon Valley firms,
+  Mayfield describes itself as "people first, from inception" and reports that
+  roughly 70% of its investments begin at company inception, positioning it as
+  the first institutional investor for early-stage founders. The firm invests
+  primarily at the Seed, Series A, and Series B stages across artificial
+  intelligence, enterprise software, cloud and cybersecurity infrastructure,
+  semiconductors, consumer and social commerce, and human and planetary health.
+  Mayfield reports approximately $3B in assets under management (and states it
+  has committed $3B to AI investments), has backed more than 550 companies over
+  its history, and counts 120+ IPOs and 225+ M&A exits including Genentech,
+  Lyft, HashiCorp, Poshmark, Marketo, Couchbase, SolarCity, Intuitive Surgical,
+  and Compaq. In 2023 the firm raised $955M across two new funds dedicated to
+  early-stage investing.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://www.mayfield.com/wp-content/uploads/2023/01/mayfield-logo.png
+tags:
+  - Venture Capital
+  - Early Stage
+  - Seed
+  - Series A
+  - Artificial Intelligence
+  - Enterprise Software
+  - Infrastructure
+  - Semiconductors
+  - Silicon Valley
+  - North America
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.mayfield.com/
+  - type: Portfolio
+    url: https://www.mayfield.com/meet-our-founders/
+  - type: Portfolio
+    url: portfolio/mayfield-portfolio.yml
+  - type: Team
+    url: https://www.mayfield.com/meet-our-team/
+  - type: Team
+    url: team/mayfield-team.yml
+  - type: InvestmentThesis
+    url: https://www.mayfield.com/read-our-perspectives/
+  - type: Blog
+    url: https://www.mayfield.com/read-our-perspectives/
+  - type: News
+    url: https://www.mayfield.com/news/
+  - type: Newsletter
+    url: https://www.mayfield.com/newsletter/
+  - type: Podcast
+    url: https://www.mayfield.com/cxo-of-the-future/
+  - type: Jobs
+    url: https://mayfield.getro.com/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/mayfield-fund
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mayfield-fund/
+  - type: Twitter
+    url: https://twitter.com/mayfieldfund
+  - type: Features
+    data:
+      - 'Stage: Inception, Seed, Series A, Series B'
+      - 'Focus: 70% of investments begin at inception'
+      - 'Sectors: artificial intelligence, enterprise software, infrastructure, cybersecurity, semiconductors, consumer/social commerce, human & planetary health'
+      - 'Geography: United States (Silicon Valley), India (Mumbai)'
+      - 'AUM: ~$3B (self-reported); $3B committed to AI investments'
+      - '2023 fundraise: $955M across two early-stage funds'
+      - 'Track record: 550+ companies, 120+ IPOs, 225+ M&As'
+      - 'Founded: 1969'
+      - 'HQ: Menlo Park, CA (Sand Hill Road)'
+    sources:
+      - https://www.mayfield.com/
+      - https://en.wikipedia.org/wiki/Mayfield_(company)
+      - https://www.businesswire.com/news/home/20230508005525/en/Mayfield-Raises-$955-Million-Across-Two-New-Funds-Dedicated-to-Early-Stage-Investing
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Mayfield Fund
+    url: https://www.mayfield.com/
