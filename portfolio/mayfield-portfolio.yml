@@ -821,7 +821,7 @@ companies:
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
-  slug: rubicon-project
+  slug: magnite
   matched_by: name-slug
 - name: S3 Graphics
   status: unknown
