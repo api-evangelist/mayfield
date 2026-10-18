@@ -3,9 +3,9 @@ method: searched
 source: https://www.mayfield.com/meet-our-founders/
 summary:
   portfolio_total: 142
-  in_network: 136
+  in_network: 137
   api_providers: 32
-  missing: 6
+  missing: 5
   stubs_created: 0
 companies:
 - name: 3com
@@ -257,7 +257,8 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: crunchbase
-  x-url-candidate: https://www.crunchbase.com/
+  url: https://www.crunchbase.com/
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: Cube
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -294,10 +295,12 @@ companies:
 - name: Docket
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: docket
-  x-url-candidate: https://www.docket.io/
+  url: https://www.docket.io/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: docketai
+  matched_by: domain
 - name: Docketai
   url: https://docketai.com
   status: unknown
@@ -621,7 +624,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: multiply
-  x-url-candidate: https://www.multiply.io/
+  x-url-rejected: https://www.multiply.io/
 - name: Neubird
   url: https://neubird.ai
   status: unknown
@@ -936,7 +939,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: service-max
-  x-url-candidate: https://www.ptc.com/en/products/servicemax
+  x-url-rejected: https://www.ptc.com/en/products/servicemax
 - name: Sgi
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/

@@ -3,15 +3,8 @@ method: derived
 source_vc: mayfield
 leads:
 - name: Crunchbase
-  url: ''
+  url: https://www.crunchbase.com/
   suggested_slug: crunchbase
-  sector: ''
-  source_vc: mayfield
-  source: https://www.mayfield.com/meet-our-founders/
-  stub_created: false
-- name: Docket
-  url: ''
-  suggested_slug: docket
   sector: ''
   source_vc: mayfield
   source: https://www.mayfield.com/meet-our-founders/
