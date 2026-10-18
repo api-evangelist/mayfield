@@ -2,9 +2,9 @@ generated: '2026-07-17'
 method: searched
 source: https://www.mayfield.com/meet-our-founders/
 summary:
-  portfolio_total: 144
-  in_network: 137
-  api_providers: 31
+  portfolio_total: 143
+  in_network: 136
+  api_providers: 32
   missing: 7
   stubs_created: 0
 companies:
@@ -76,7 +76,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: applied-biosystems
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.thermofisher.com/us/en/home/brands/applied-biosystems.html
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Applied Cognition
   url: https://appliedcognition.com
   status: unknown
@@ -92,13 +94,16 @@ companies:
   is_api_provider: false
   slug: arbor-software
   matched_by: name-slug
+  x-url-candidate: https://arbor.com
 - name: Atari
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
   slug: atari
-  matched_by: name-slug
+  matched_by: domain
+  url: https://atari.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Attotude
   url: https://attotude.com
   status: unknown
@@ -128,14 +133,18 @@ companies:
   slug: basis
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://basis.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Bespoke Labs
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: true
   slug: bespoke-labs
-  matched_by: name-slug
+  matched_by: domain
+  url: https://bespokelabs.ai
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Big Panda
   url: https://bigpanda.io
   status: unknown
@@ -151,13 +160,16 @@ companies:
   is_api_provider: false
   slug: brighter
   matched_by: name-slug
+  x-url-candidate: https://brighter.ai
 - name: Broadvision
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
   slug: broadvision
-  matched_by: name-slug
+  matched_by: domain
+  url: https://broadvision.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Brokk
   url: https://brokk.ai
   status: unknown
@@ -171,22 +183,28 @@ companies:
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: true
-  slug: centrify
-  matched_by: name-slug
+  slug: delinea
+  matched_by: domain
+  url: https://delinea.com/centrify
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Chemix
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
   slug: chemix
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.chemix.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Citrix
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   slug: citrix
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.citrix.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Cloudgenix
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -222,7 +240,9 @@ companies:
   slug: concur
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.concur.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Couchbase
   url: https://couchbase.com
   status: unknown
@@ -237,13 +257,16 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: crunchbase
+  x-url-candidate: https://www.crunchbase.com/
 - name: Cube
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   slug: cube
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://cube.dev
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Cubesoftware
   url: https://cubesoftware.com
   status: unknown
@@ -259,6 +282,7 @@ companies:
   is_api_provider: false
   slug: cypress
   matched_by: name-slug
+  x-url-candidate: https://www.cypress.io/
 - name: Devrev
   url: https://devrev.ai
   status: unknown
@@ -273,6 +297,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: docket
+  x-url-candidate: https://www.docket.io/
 - name: Docketai
   url: https://docketai.com
   status: unknown
@@ -296,6 +321,7 @@ companies:
   is_api_provider: false
   slug: echelon
   matched_by: name-slug
+  x-url-candidate: https://echelon.io
 - name: Elastica
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -303,6 +329,7 @@ companies:
   is_api_provider: false
   slug: elastica
   matched_by: name-slug
+  x-url-candidate: https://elastica.io
 - name: Exaforce
   url: https://exaforce.com
   status: unknown
@@ -341,7 +368,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: genentech
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.gene.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Gigya
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -464,7 +493,9 @@ companies:
   slug: lam-research
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.lamresearch.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Legato
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -472,6 +503,7 @@ companies:
   is_api_provider: false
   slug: legato
   matched_by: name-slug
+  x-url-candidate: https://legato.io
 - name: Linear Technologies
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -523,7 +555,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: matrimony-com
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.matrimony.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Millennium Pharma
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -531,6 +565,7 @@ companies:
   is_api_provider: false
   slug: millennium-pharma
   matched_by: name-slug
+  x-url-candidate: https://millenniumpharma.co
 - name: Mindsdb
   url: https://mindsdb.com
   status: unknown
@@ -553,7 +588,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: mips
-  matched_by: name-slug
+  matched_by: domain
+  url: https://mips.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Mirvie
   url: https://mirvie.com
   status: unknown
@@ -569,6 +606,7 @@ companies:
   is_api_provider: false
   slug: moat
   matched_by: name-slug
+  x-url-candidate: https://moat.ai
 - name: Mobile
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -576,12 +614,14 @@ companies:
   is_api_provider: false
   slug: mobile
   matched_by: name-slug
+  x-url-candidate: https://mobile.ai
 - name: Multiply
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: false
   is_api_provider: false
   suggested_slug: multiply
+  x-url-candidate: https://www.multiply.io/
 - name: Neubird
   url: https://neubird.ai
   status: unknown
@@ -603,7 +643,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: nuance
-  matched_by: name-slug
+  matched_by: domain
+  url: https://dragon.nuance.com/en-us/home
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Numeral
   url: https://numeral.com
   status: unknown
@@ -619,20 +661,25 @@ companies:
   is_api_provider: false
   slug: nuvia
   matched_by: name-slug
+  x-url-candidate: https://www.nuvia.com/
 - name: Obot
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
   slug: obot
-  matched_by: name-slug
+  matched_by: domain
+  url: https://obot.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Openlight
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
   slug: openlight
-  matched_by: name-slug
+  matched_by: domain
+  url: https://openlightphotonics.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Opti
   url: https://opti.ai
   status: unknown
@@ -684,7 +731,9 @@ companies:
   slug: portworx
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://portworx.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Poshmark
   url: https://poshmark.com
   status: unknown
@@ -700,6 +749,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://www.pulse.com/
 - name: Pure Networks
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -714,6 +764,7 @@ companies:
   is_api_provider: false
   slug: pure-software
   matched_by: name-slug
+  x-url-candidate: https://www.pure.com/
 - name: Qtera
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -734,8 +785,10 @@ companies:
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
-  slug: quantum
-  matched_by: name-slug
+  slug: emtethal
+  matched_by: domain
+  url: https://quantums.com.sa
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Quickoffice
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -749,7 +802,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: qunar-com
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.qunar.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Qventus
   url: https://qventus.com
   status: unknown
@@ -878,6 +933,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: service-max
+  x-url-candidate: https://www.ptc.com/en/products/servicemax
 - name: Sgi
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -900,13 +956,16 @@ companies:
   is_api_provider: false
   slug: solar-city
   matched_by: name-slug
+  x-url-candidate: https://solarcity.ai
 - name: Storsimple
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
-  is_api_provider: false
-  slug: storsimple
-  matched_by: name-slug
+  is_api_provider: true
+  slug: microsoft
+  matched_by: domain
+  url: https://learn.microsoft.com/en-us/previous-versions/azure/storage/files/storage-files-migration-storsimple-8000
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Supio
   url: https://supio.com
   status: unknown
@@ -920,15 +979,19 @@ companies:
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
-  slug: swiftstack
-  matched_by: name-slug
+  slug: nvidia
+  matched_by: domain
+  url: https://www.nvidia.com/en-us/data-center/swiftstack/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Tandem
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
   in_network: true
   is_api_provider: false
   slug: tandem
-  matched_by: name-slug
+  matched_by: domain
+  url: https://tandem.chat
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Teambridge
   url: https://teambridge.com
   status: unknown
@@ -943,7 +1006,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: tejas-networks
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.tejasnetworks.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Tensordyne
   url: https://tensordyne.ai
   status: unknown
@@ -997,8 +1062,8 @@ companies:
   source: https://www.mayfield.com/meet-our-founders/
   in_network: false
   is_api_provider: false
-  x-name-collision: upscale-ai
   suggested_slug: upscaleai-com
+  x-name-collision: upscale-ai
 - name: Vantus
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
@@ -1006,6 +1071,7 @@ companies:
   is_api_provider: false
   slug: vantus
   matched_by: name-slug
+  x-url-candidate: https://vantus.com
 - name: Velaura
   url: https://velaura.ai
   status: unknown
@@ -1020,15 +1086,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: versa-networks
-  matched_by: name-slug
-- name: Versa Networks
-  url: https://versa-networks.com
-  status: unknown
-  source: https://www.mayfield.com/meet-our-founders/
-  in_network: true
-  is_api_provider: false
-  slug: versa-networks
   matched_by: domain
+  url: https://versa-networks.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Vijil
   url: https://vijil.ai
   status: unknown
@@ -1064,7 +1124,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: wideorbit
-  matched_by: name-slug
+  matched_by: domain
+  url: https://wideorbit.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Withorb
   url: https://withorb.com
   status: unknown
