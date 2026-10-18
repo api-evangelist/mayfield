@@ -2,10 +2,10 @@ generated: '2026-07-17'
 method: searched
 source: https://www.mayfield.com/meet-our-founders/
 summary:
-  portfolio_total: 143
+  portfolio_total: 142
   in_network: 136
   api_providers: 32
-  missing: 7
+  missing: 6
   stubs_created: 0
 companies:
 - name: 3com
@@ -691,9 +691,12 @@ companies:
 - name: Orb
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: orb
+  in_network: true
+  is_api_provider: true
+  url: https://www.withorb.com
+  x-url-source: web search 2026-10-18
+  slug: orb-billing
+  matched_by: domain
 - name: Outreach
   url: https://outreach.io
   status: unknown
@@ -1127,14 +1130,6 @@ companies:
   matched_by: domain
   url: https://wideorbit.com/
   x-url-source: network-repo (title-verified 2026-10-18)
-- name: Withorb
-  url: https://withorb.com
-  status: unknown
-  source: https://www.mayfield.com/meet-our-founders/
-  slug: orb-billing
-  in_network: true
-  is_api_provider: true
-  matched_by: domain
 - name: Zenprise
   status: unknown
   source: https://www.mayfield.com/meet-our-founders/

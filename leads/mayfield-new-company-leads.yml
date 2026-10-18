@@ -23,13 +23,6 @@ leads:
   source_vc: mayfield
   source: https://www.mayfield.com/meet-our-founders/
   stub_created: false
-- name: Orb
-  url: ''
-  suggested_slug: orb
-  sector: ''
-  source_vc: mayfield
-  source: https://www.mayfield.com/meet-our-founders/
-  stub_created: false
 - name: Rubicon Project
   url: ''
   suggested_slug: rubicon-project
