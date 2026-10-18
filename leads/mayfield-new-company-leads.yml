@@ -1,4 +1,53 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: mayfield
-leads: []
+leads:
+- name: Crunchbase
+  url: ''
+  suggested_slug: crunchbase
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
+- name: Docket
+  url: ''
+  suggested_slug: docket
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
+- name: Multiply
+  url: ''
+  suggested_slug: multiply
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
+- name: Orb
+  url: ''
+  suggested_slug: orb
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
+- name: Rubicon Project
+  url: ''
+  suggested_slug: rubicon-project
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
+- name: Service Max
+  url: ''
+  suggested_slug: service-max
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
+- name: Upscale Ai
+  url: https://upscaleai.com
+  suggested_slug: upscaleai-com
+  sector: ''
+  source_vc: mayfield
+  source: https://www.mayfield.com/meet-our-founders/
+  stub_created: false
